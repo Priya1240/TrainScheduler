@@ -1,5 +1,9 @@
 body {
-background-image: url("../images/map.gif");
+background-image: url("../images/map.jpg");
 
 }
 
+h1, p {
+
+	font-weight: bold;
+}
